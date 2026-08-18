@@ -19,7 +19,7 @@ The listed features were released in the last six months. For information about 
 [!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
 ## August 2026
 New data sources for UEBA behaviors and anomaly detection (Preview)
-UEBA anomalies on behaviors (Preview)
+UEBA anomalies on behavidors (Preview)
 SAP solution releases
 New data sources for UEBA behaviors and anomaly detection (Preview)
 Microsoft Sentinel UEBA expands coverage with new data sources for both the behaviors layer and anomaly detection.
