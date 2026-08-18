@@ -17,6 +17,11 @@ This article lists rEecent features added for Microsoft Sentinel, and new featur
 The listed features were released in the last six months. For information about earlier features delivered, see our [Tech Community blogs](https://techcommunity.microsoft.com/t5/azure-sentinel/bg-p/AzureSentinelBlog/label-name/What's%20New).
 
 [!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
+
+## September 2026
+Sentinel Finally goes OnPrem. ;)
+
+
 ## August 2026
 New data sources for UEBA behaviors and anomaly detection (Preview)
 UEBA anomalies blaa on behavidors (Preview)
