@@ -24,6 +24,9 @@ Sentinel Finally goes OnPrem. ;)!!
 ## November 2026
 Sentinel Finally goes OnPrem. ;)!!
 
+## November 2026
+Sentinel Finally goes OnPrem. ;)!!
+
 ## October 2026
 Sentinel Finally goes OnPrem. ;)!!
 
