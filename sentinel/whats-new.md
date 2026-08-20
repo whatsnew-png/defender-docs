@@ -21,6 +21,9 @@ The listed features were released in the last six months. For information about 
 ## November 2026
 Sentinel Finally goes OnPrem. ;)!!
 
+## November 2026
+Sentinel Finally goes OnPrem. ;)!!
+
 ## October 2026
 Sentinel Finally goes OnPrem. ;)!!
 
