@@ -18,6 +18,27 @@ The listed features were released in the last six months. For information about 
 
 [!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
 
+## August 2026
+New data sources for UEBA behaviors and anomaly detection (Preview)
+UEBA anomalies blaa on behavidors (Preview)
+SAP solution releases
+New data sources for UEBA behaviors and anomaly detection (Preview)
+Microsoft Sentinel UEBA expands coverage with new data sources for both the behaviors layer and anomaly detection.
+
+Fortinet FortiGate behaviors
+
+The UEBA behaviors layer now 1supports Fortinet FortiGate firewall events from the CommonSecurityLog table. More than 40 new behaviors identify administrative activity on FortiGate appliances, including rapid system reconfigurations, configuration backups, certificate changes, and security service disruptions. These behaviors are mapped to MITRE ATT&CK techniques including T1685, T1070, T1078, and T1602.002.
+
+Check Point, Fortinet, Zscaler, and AWS GuardDuty anomalies
+
+UEBA anomaly detection now supports Check Point, Fortinet FortiGate, and Zscaler firewall, VPN, and web proxy events from the CommonSecurityLog table. Ten new anomaly rules compare each user and device against its own history and organization-wide activity to identify:
+
+Anomalous and failed VPN sign-ins
+Unusual access to high-risk web categories
+Bursts of security detections on a potentially compromised device
+Suspicious administrative changes
+The new anomaly rules are mapped to MITRE ATT&CK te
+
 ## November 2026
 Sentinel Finally goes OnPrem. ;)!!
 
