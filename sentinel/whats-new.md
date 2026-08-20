@@ -27,6 +27,16 @@ The listed features were released in the last six months. For information about 
 You can now manage [custom detection rules](/defender-xdr/custom-detections-overview) as code in your GitHub or Azure DevOps repository using the Microsoft Security BICEP extension. Sync custom detection rules to Microsoft Sentinel using the Repositories feature, or deploy them directly using BICEP CLI. For more information, see [Deploy custom detection rules as code](ci-cd-custom-content.md#deploy-custom-detection-rules-as-code-preview).
 
 
+
+## July 2026
+
+- [Custom detection rules support in Microsoft Sentinel Repositories (Preview)](#custom-detection-rules-support-in-microsoft-sentinel-repositories-preview)
+
+### Custom detection rules support in Microsoft Sentinel Repositories (Preview)
+
+You can now manage [custom detection rules](/defender-xdr/custom-detections-overview) as code in your GitHub or Azure DevOps repository using the Microsoft Security BICEP extension. Sync custom detection rules to Microsoft Sentinel using the Repositories feature, or deploy them directly using BICEP CLI. For more information, see [Deploy custom detection rules as code](ci-cd-custom-content.md#deploy-custom-detection-rules-as-code-preview).
+
+
 ## July 2026
 
 - [Custom detection rules support in Microsoft Sentinel Repositories (Preview)](#custom-detection-rules-support-in-microsoft-sentinel-repositories-preview)
