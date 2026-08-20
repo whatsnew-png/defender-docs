@@ -18,6 +18,9 @@ The listed features were released in the last six months. For information about 
 
 [!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
 
+## November 2026
+Sentinel Finally goes OnPrem. ;)!!
+
 ## October 2026
 Sentinel Finally goes OnPrem. ;)!!
 
