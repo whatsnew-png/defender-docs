@@ -18,6 +18,13 @@ The listed features were released in the last six months. For information about 
 
 [!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
 
+
+## August 2026
+
+- [Custom detection rules support in Microsoft Sentinel Repositories (Preview)](#custom-detection-rules-support-in-microsoft-sentinel-repositories-preview)
+
+
+
 ## August 2026
 
 - [Custom detection rules support in Microsoft Sentinel Repositories (Preview)](#custom-detection-rules-support-in-microsoft-sentinel-repositories-preview)
